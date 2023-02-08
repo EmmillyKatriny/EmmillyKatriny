@@ -6,8 +6,9 @@
 
 <div>
 <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=emmillykatriny&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmillykatriny&show_icons=true&theme=radical" />
 </picture>
+  
 </div>
 
 <div style="display: inline_block"><br>
