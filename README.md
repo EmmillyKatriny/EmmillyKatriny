@@ -11,7 +11,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Emi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Emi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Emi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1060397137076170775/1072944142411382814/Video_sem_titulo_Feito_com_o_Clipchamp_1.gif">
