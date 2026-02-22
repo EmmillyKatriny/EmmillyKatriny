@@ -1,4 +1,4 @@
-# Oii! Eu sou a Emmilly Katriny
+# Oii! Eu sou Emmilly
 
 Business Consultant | ERP D365 & Salesforce  
 Data Analytics | Process Improvement | Business Technology  
