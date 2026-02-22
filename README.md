@@ -7,7 +7,7 @@ Data Analytics | Process Improvement | Business Technology
 
 ##  Sobre mim 
 
-Pós-graduação em Data Analytics
+Pós-graduação em Data Analytics  
 Formação em Análise e Desenvolvimento de Sistemas  
 
 ---
