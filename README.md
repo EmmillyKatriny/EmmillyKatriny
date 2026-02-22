@@ -8,21 +8,12 @@ Em constante evolução no mundo da tecnologia
 
 ##  Sobre mim 
 
-🎓 Pós-graduação em Data Analytics (FIAP)  
-🎓 Formação em Análise e Desenvolvimento de Sistemas  
+Pós-graduação em Data Analytics (FIAP)  
+Formação em Análise e Desenvolvimento de Sistemas  
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmillykatriny&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmillykatriny&layout=compact&theme=radical"/>
-</div>
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
 
@@ -38,7 +29,7 @@ Em constante evolução no mundo da tecnologia
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <a href="mailto:emmillyk6@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
@@ -48,6 +39,4 @@ Em constante evolução no mundo da tecnologia
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
----
 
-✨ Tecnologia com visão de negócio.
