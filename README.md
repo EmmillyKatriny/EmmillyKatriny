@@ -2,7 +2,6 @@
 
 Business Consultant | ERP D365 & Salesforce  
 Data Analytics | Process Improvement | Business Technology  
-Em constante evolução no mundo da tecnologia  
 
 ---
 
